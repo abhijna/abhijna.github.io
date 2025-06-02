@@ -4,10 +4,7 @@ title: About me
 ---
 
 
-
-I started out as a bench biologist, hands deep in experiments. Somewhere along the way I found my way into writing. Now I write about code, science, and the tools that make both work. 
-
-I realized that good communication isn't just helpful -- it is essential. Without clear, accessible content, even the best scientific tools and innovations can remain underused or misunderstood.
+I started out as a bench biologist —- now I write documentation for complex pipelines and technologies. Along the way, I realized that communication is infrastructure. Without clear, accessible content, even the best tools risk becoming barriers to discovery.
 
 I have a PhD in Integrative Biology and a background in bioinformatics, molecular genetics, and neuroscience. What I love most is translating complex ideas into clear, practical documentation that makes science more accessible and people’s work a little easier.
 
