@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code, Science, and Words
+title: Words, Code, and Science
 ---
 
 
