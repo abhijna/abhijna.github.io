@@ -17,7 +17,7 @@ I worked as a Senior Scientific Writer at 10x Genomics, where I developed techni
 <span class="fa fa-code about-icon"></span>
 I write and maintain code in <strong>R</strong>, <strong>Markdown</strong>, and <strong>BASH</strong>, and I’m experienced in version control and collaborative development using Git and GitHub.
 
-<span class="material-icons">computer</span>
+<span class="material-icons"></span>
 I design and lead training workshops on AWS, Conda, Snakemake, R, and open science tools, with a focus on accessibility and reproducibility for biomedical researchers.
 
 <span class="glyphicon glyphicon-cloud"></span>
