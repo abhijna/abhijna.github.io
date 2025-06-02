@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scientist | Writer | Coder
+title: Science, Scripts, and Storylines
 ---
 
 
