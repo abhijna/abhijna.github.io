@@ -14,11 +14,12 @@ I have a PhD in Integrative Biology and a background in bioinformatics, molecula
 <span class="fa fa-flask about-icon"></span>
 I worked as a Senior Scientific Writer at 10x Genomics, where I developed technical content for high-impact product launches and supported advanced analytics workflows. Previously, I was a postdoctoral researcher in Titus Brown’s lab at UC Davis, contributing to the NIH Common Fund Data Ecosystem through bioinformatics pipeline development, FAIR data practices, and community training efforts.
 
+
+&#128105;&#8205;&#127979;
+I design and lead training workshops on AWS, Conda, Snakemake, R, and open science tools, with a focus on accessibility and reproducibility for biomedical researchers.
+
 <span class="fa fa-code about-icon"></span>
 I write and maintain code in <strong>R</strong>, <strong>Markdown</strong>, and <strong>BASH</strong>, and I’m experienced in version control and collaborative development using Git and GitHub.
-
-<span class="material-icons"></span>
-I design and lead training workshops on AWS, Conda, Snakemake, R, and open science tools, with a focus on accessibility and reproducibility for biomedical researchers.
 
 <span class="glyphicon glyphicon-cloud"></span>
 I’ve built and run bioinformatics pipelines using Snakemake on cloud platforms like AWS and on academic HPC systems. I’ve also documented cloud-native tools for scalable single-cell analysis.
