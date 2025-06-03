@@ -4,7 +4,6 @@ title: Science Communication Portfolio
 ---
 
 ## Cell Ranger Software Documentation  
-### Online Help, User Manuals, Installation Guides, and More
 
 As the **lead Software Scientific Writer** for **Chromium Single Cell** products at [10x Genomics](https://www.10xgenomics.com/), I supported the launch of:  
 - 9 versions of Cell Ranger  
@@ -39,7 +38,6 @@ Here is another example: [What is Antigen Capture?](https://www.10xgenomics.com/
 
 ### Tutorials and Analysis Guides
 
-#### Example Tutorials 
 The best way to understand a complex software tool is to try it hands-on. I created several step-by-step tutorials using publicly available datasets to help users practice running Cell Ranger pipelines.
 
 Each guide walks users through:
@@ -54,7 +52,6 @@ In this example, users learn how to run Cell Ranger's `multi` command to [analyz
 
 Short screen capture videos are especially helpful for customers who are new to command-line workflows.
 
-#### Example Analysis Guides
 
 In addition to writing core documentation for Cell Ranger, I contributed to a collection of guides and articles that help users analyze data beyond the scope of 10x Genomics software.
 
@@ -65,7 +62,7 @@ These resources include:
 
 These materials were created to help customers extend their analyses using external software tools and workflows, supporting a wide range of research needs and increasing overall user success.
 
-### 📘 Installation Guides and System Requirements
+### Installation Guides and System Requirements
 
 Clear installation instructions and system requirements are essential for helping users get up and running quickly. These documents reduce support requests by ensuring that users have the necessary hardware, software, and dependencies in place before running the software. A well-written installation guide can make the difference between a smooth onboarding experience and early frustration.
 
