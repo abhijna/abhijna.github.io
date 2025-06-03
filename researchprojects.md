@@ -3,14 +3,11 @@ layout: page
 title: Research Projects
 ---
 
-## My PhD Research at Michigan State University 
+## Using a novel model system to understand the interactions between voltage-gated sodium ion channels and gating-modifier neurotoxins
 
-Using a novel model system to understand the interactions between voltage-gated sodium ion channels and gating-modifier neurotoxins
+This research was conducted in Dr. Ashlee Rowe's lab (now at the University of Oklahoma).
 
-Research in the Rowe lab (now at the University of Oklahoma):
-
-Southern grasshopper mouse and Arizona bark scorpion. Photo credit: Matt Rowe
-Grasshopper mice are resistant to neurotoxins
+Southern grasshopper mouse and Arizona bark scorpion. Photo credit: Dr. Matt Rowe
 
 ![](./img/researchprojects/gmouse.jpg)
 
@@ -25,9 +22,9 @@ Although we now understand some aspects of pain resistance, we know little about
 We used molecular biology, electrophysiology, and molecular evolutionary algorithms to understand the structural and functional properties of sodium ion channels expressed in the muscles of grasshopper mice. Our research showed that grasshopper mouse muscle sodium ion channels carry unique amino acid modifications that make them less sensitive to the effects of gating modifier (scorpion) neurotoxins. To take this one step further, we created recombinant genetic constructs of sodium channels and identified the functional consequences of amino acid substitutions in these important proteins. 
 
 
-## My PhD Research at Michigan State University 
+## The behavioral repertoire of *Drosophila melanogaster* in the presence of two predator species that differ in hunting mode
 
-Research in Ian Dworkin's lab (now at McMaster University)
+Research in Dr. Ian Dworkin's lab (now at McMaster University).
 
 The fruit fly *Drosophila melanogaster* is widely used in genetics, genomics, and neuroscience research. But despite this, we know little about its natural behavior in the wild. For one of my PhD projects, we looked at how two different types of predators affect fruit fly behavior: zebra jumping spiders (*Salticus scenicus*), which actively hunt, and Chinese praying mantids (*Tenodera sinensis*), which wait and ambush their prey. We observed that fruit flies showed three notable behaviors more often when predators were around: lifting their abdomen, stopping, and retreating. While the mantids had a small effect on how much the flies moved, the jumping spiders caused a clear increase in the flies’ overall activity. We also found that individual flies varied a lot in how they responded to both predators.
 
