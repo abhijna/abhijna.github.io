@@ -3,6 +3,9 @@ layout: page
 title: My Publications
 ---
 
+
+Jung, Se Jung, Ksenia Vlasov, Alexa F. D'Ambra, Abhijna Parigi, et al. (2022). Novel Cerebello-Amygdala Connections Provide Missing Link Between Cerebellum and Limbic System. Frontiers in Systems Neuroscience 16: 879634. 
+
 Graham J, D’Ambra AF, Jung SJ, Teratani-Ota Y, Vishwakarma N, VenkateshR, Parigi A, Antzoulatos EG, Fioravante DF & Wiltgen, B. J. (2021). High-frequency stimulation of ventral CA1 neurons reduces amygdala activity and inhibits fear. Frontiers in Behavioral Neuroscience, 15, 31.
 
 Parigi A, Thomas L, Fehrman J, Rowe, M &Rowe AH. Interaction between southern grasshopper mouse (Onychomys torridus) muscle voltage-gated sodium ion channels and Arizona bark scorpion (Centruroides sculpturatus) venom as a model to understand the evolvability of conserved ion channel proteins. In Prep.
