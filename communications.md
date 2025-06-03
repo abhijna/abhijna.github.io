@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science Communication Portfolio
+title: Scientific Writing
 ---
 
 ## Cell Ranger Software Documentation  
