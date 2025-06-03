@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Science Communication Portfolio
-permalink: /portfolio/
 ---
 
 ## Cell Ranger Software Documentation  
