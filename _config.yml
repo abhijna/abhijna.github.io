@@ -23,14 +23,14 @@ description: Words | Code | Science
 
 # List of links in the navigation bar
 navbar-links:
+  Portfolio:
+    - Scientific Writing: "communications"
+    - Research Projects: "researchprojects"
+    - Publications: "publications"
   About Me:
     - About Me: "aboutme"
     - Linkedin: "https://www.linkedin.com/in/abhijna-parigi/"
     - GitHub: "https://github.com/abhijna"
-  Portfolio:
-    - Scientific Writing: "communication"
-    - My Research Projects: "researchprojects"
-    - Publications: "publications"
   Affiliations:
     - DIB Lab: "http://ivory.idyll.org/lab/"
     - Fioravante Lab: "https://www.fioravantelab.org/"
