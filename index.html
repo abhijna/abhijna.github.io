@@ -108,36 +108,78 @@ bigimg:
 </div>
 
 
-<section style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; max-width: 900px; margin: auto; color: #333;">
-  <p>
-    I started out as a bench biologist — now I write documentation for complex pipelines and technologies. Along the way, I realized that communication is infrastructure. Without clear, accessible content, even the best tools risk becoming barriers to discovery.
-  </p>
-  <p>
-    I have a PhD in Integrative Biology and a background in bioinformatics, molecular genetics, and neuroscience. What I love most is translating complex ideas into clear, practical documentation that makes science more accessible and people’s work a little easier.
-  </p>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    section.bio {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: auto;
+      padding: 1rem;
+      color: #333;
+    }
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#9997;
-    I have four years of experience as a <strong>Senior Scientific Writer</strong> at 10x Genomics, where I developed technical content for high-impact product launches and supported advanced analytics workflows. Previously, I was a postdoctoral researcher in Titus Brown’s lab at UC Davis, contributing to the NIH Common Fund Data Ecosystem through bioinformatics pipeline development, FAIR data practices, and community training efforts.
-  </p>
+    section.bio p {
+      font-size: 1rem;
+      margin-top: 1.5rem;
+    }
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#128105;&#8205;&#128187;
+    section.bio p.feature {
+      font-size: 1.25rem;
+    }
 
-    I've <strong>designed and led training workshops</strong> on AWS, Conda, Snakemake, R, and open science tools, with a focus on accessibility and reproducibility for biomedical researchers.
-  </p>
+    section.bio a {
+      color: #007acc;
+      text-decoration: none;
+    }
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#128187;
-    I write and maintain code in <strong>R</strong>, <strong>Markdown</strong>, and <strong>BASH</strong>, and I’m experienced in version control and collaborative development using Git and GitHub.
-  </p>
+    @media screen and (max-width: 600px) {
+      section.bio {
+        padding: 0.75rem;
+      }
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#128105;&#8205;&#128187;
-    I’ve built and run bioinformatics pipelines using Snakemake on cloud platforms like AWS and on academic HPC systems. I’ve also documented cloud-native tools for scalable single-cell analysis.
-  </p>
+      section.bio p {
+        font-size: 1rem;
+      }
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#127891;
-    I got my <strong>PhD from Michigan State University</strong>, where I studied the molecular evolution of venom resistance in grasshopper mice. Learn more on my <a href="./researchprojects/" style="color: #007acc; text-decoration: none;">Research Projects</a> page.
-  </p>
+      section.bio p.feature {
+        font-size: 1.1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <section class="bio">
+    <p>
+      I started out as a bench biologist — now I write documentation for complex pipelines and technologies...
+    </p>
+    <p>
+      I have a PhD in Integrative Biology and a background in bioinformatics...
+    </p>
 
-  <p style="font-size: 1.5rem; margin-top: 2rem;">&#127891;
-    I also have a <strong>Master's</strong> degree in molecular genetics from the University of Leicester (UK) and a BSc in life sciences and chemistry from Christ University (India).
-  </p>
-</section>
+    <p class="feature">&#9997;
+      I have four years of experience as a <strong>Senior Scientific Writer</strong> at 10x Genomics...
+    </p>
+
+    <p class="feature">&#128105;&#8205;&#128187;
+      I've <strong>designed and led training workshops</strong> on AWS, Conda, Snakemake...
+    </p>
+
+    <p class="feature">&#128187;
+      I write and maintain code in <strong>R</strong>, <strong>Markdown</strong>, and <strong>BASH</strong>...
+    </p>
+
+    <p class="feature">&#128105;&#8205;&#128187;
+      I’ve built and run bioinformatics pipelines using Snakemake on cloud platforms like AWS...
+    </p>
+
+    <p class="feature">&#127891;
+      I got my <strong>PhD from Michigan State University</strong>... <a href="./researchprojects/">Research Projects</a> page.
+    </p>
+
+    <p class="feature">&#127891;
+      I also have a <strong>Master's</strong> degree in molecular genetics...
+    </p>
+  </section>
+</body>
