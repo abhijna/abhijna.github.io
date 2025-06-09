@@ -11,12 +11,12 @@ As the **lead Software Scientific Writer** for **Chromium Single Cell** products
 - 3 versions of Cell Ranger ARC  
 
 I developed and maintained a wide range of customer-facing materials, including:  
-- Technology introductions  
-- Tutorials and analysis guides  
-- User manuals and installation instructions  
-- Algorithm documentation  
-- Release notes  
-- Video content and walkthroughs  
+- [Technology introductions](#technology-introduction-explaining-platform--options)  
+- [Tutorials and analysis guides](#tutorials-and-analysis-guides)  
+- [User manuals and installation instructions](#installation-guides-and-system-requirements)  
+- [Algorithm documentation](#algorithm-descriptions)  
+- [Release notes](#release-notes)  
+- [Video content and walkthroughs](#video-content)  
 
 This page showcases representative examples from each content type.
 
