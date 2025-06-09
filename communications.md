@@ -13,7 +13,7 @@ As the **lead Software Scientific Writer** for **Chromium Single Cell** products
 I developed and maintained a wide range of customer-facing materials, including:  
 - [Technology introductions](#technology-introduction-explaining-platform--options)  
 - [Tutorials and analysis guides](#tutorials-and-analysis-guides)  
-- [User manuals and installation instructions](#installation-guides-and-system-requirements)  
+- [Technology usage guides and installation instructions](#installation-guides-and-system-requirements)  
 - [Algorithm documentation](#algorithm-descriptions)  
 - [Release notes](#release-notes)  
 - [Video content and walkthroughs](#video-content)  
@@ -75,7 +75,7 @@ Here are some examples of my work:
 
 Good technical documentation supports users with varying levels of experience — from beginners to advanced researchers. While introductory content is useful for new users, returning customers often prefer quick-reference materials that let them access commands and parameters directly.
 
-For experienced users of Cell Ranger, I created a [**manual-style reference page**](https://www.10xgenomics.com/support/software/cell-ranger/latest/resources/cr-command-line-arguments) that includes:
+For experienced users of Cell Ranger, I created a [manual-style reference page](https://www.10xgenomics.com/support/software/cell-ranger/latest/resources/cr-command-line-arguments) that includes:
 
 - A navigation panel for quick access to each command
 - Clear descriptions of available parameters and their usage
@@ -96,8 +96,7 @@ To [demystify a complex immune profiling analysis pipeline](https://www.10xgenom
 
 Release notes help users understand what has changed between versions. They highlight new features, fixed bugs, and known issues, allowing users to make informed decisions about updating and integrating new functionality into their workflows. Clear, well-organized release notes also reduce confusion and support requests.
 
-Here is an example:
-- [Cell Ranger Release Notes](https://www.10xgenomics.com/support/software/cell-ranger/latest/release-notes)
+Here is an example: [Cell Ranger Release Notes](https://www.10xgenomics.com/support/software/cell-ranger/latest/release-notes)
 
 
 ### Technical Notes
