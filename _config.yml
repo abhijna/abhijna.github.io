@@ -17,7 +17,7 @@ baseurl: ""
 title: Abhijna Parigi (Science Communicator)
 
 # Short description of your site
-description: Words | Code | Science 
+description: Science | Code | Communication
 
 # --- Navigation bar options --- #
 
@@ -41,7 +41,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "img/slack_profile_pic.jpg"
+avatar: "img/slack_profile_pic.png"
 
 # --- Footer options --- #
 
@@ -127,7 +127,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: false
+      show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
 link-tags: false
