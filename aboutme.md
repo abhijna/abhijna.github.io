@@ -6,10 +6,12 @@ title: Words, Code, and Science
 
 I started out as a bench biologist — now I write documentation for complex pipelines and technologies. Along the way, I realized that communication is infrastructure. Without clear, accessible content, even the best tools risk becoming barriers to discovery.
 
-I have a PhD in Integrative Biology and a background in bioinformatics, molecular genetics, and neuroscience. What I love most is translating complex ideas into clear, practical documentation that makes science more accessible and people’s work a little easier.
+I have a PhD in Integrative Biology and a background in bioinformatics, molecular genetics, and neuroscience. What I love most is translating complex ideas into clear, practical documentation that makes technology more accessible.
 
 &#9997;
-I worked as a Senior Scientific Writer at 10x Genomics, where I developed technical content for high-impact product launches and supported advanced analytics workflows. Previously, I was a postdoctoral researcher in Titus Brown’s lab at UC Davis, contributing to the NIH Common Fund Data Ecosystem through bioinformatics pipeline development, FAIR data practices, and community training efforts.
+I’m currently a **Senior Technical Writer at Semgrep (2025)**, where I create documentation that supports developers and security teams using the Semgrep AppSec Platform. My work focuses on improving both clarity and discoverability: I’ve migrated our search experience from Algolia to Meilisearch with AI-powered semantic search, optimized DocuSaurus site navigation using FullStory analytics, and developed product-level introductory content that helps users understand Semgrep’s capabilities at a glance. I also manage documentation workflows in Linear and ensure style consistency across the docs using Vale.
+
+Previously, I worked as a **Senior Scientific Writer at 10x Genomics**, developing technical and scientific content for high-visibility product launches and advanced analytics workflows. Before that, I was a postdoctoral researcher in Titus Brown’s lab at **UC Davis**, contributing to the NIH Common Fund Data Ecosystem through bioinformatics pipeline development, FAIR data initiatives, and community training efforts.
 
 &#128105;&#8205;&#128187;
 I've designed and led training workshops on AWS, Conda, Snakemake, R, and open science tools, with a focus on accessibility and reproducibility for biomedical researchers.
