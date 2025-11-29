@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scientific Writing
+show-avatar: true
 ---
 
 ## Cell Ranger Software Documentation  
